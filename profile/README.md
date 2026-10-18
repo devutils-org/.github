@@ -31,4 +31,4 @@ Each tool owns one kind of question about a Linux machine and installs on its ow
 - **Say what was lost** — dropped samples, missing permissions, unsupported kernels.
 - **Refuse rather than guess** — no answer is better than a wrong one.
 
-<sub>Most tools are dual-licensed MIT / Apache-2.0.</sub>
+<sub>MIT or Apache-2.0, at your option. See each repository for file-specific terms.</sub>
