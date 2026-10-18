@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://devutils-org.github.io"><img src="https://raw.githubusercontent.com/devutils-org/.github/main/profile/assets/github-social-preview-with-phrase.png" width="1280" alt="devutils — See beyond the surface." /></a>
+</p>
+
+<p align="center">
   <a href="https://devutils-org.github.io"><img src="https://devutils-org.github.io/mark.svg" width="72" alt="devutils" /></a>
 </p>
 
