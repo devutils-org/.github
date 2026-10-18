@@ -2,16 +2,15 @@
   <a href="https://devutils-org.github.io"><img src="https://raw.githubusercontent.com/devutils-org/.github/main/profile/assets/github-social-preview-with-phrase.png" width="1280" alt="devutils — See beyond the surface." /></a>
 </p>
 
+<h2 align="center">Understand your Linux system.</h2>
+
 <p align="center">
-  <a href="https://devutils-org.github.io"><img src="https://devutils-org.github.io/mark.svg" width="72" alt="devutils" /></a>
+  Independent Rust tools to debug with context, check portability,<br />
+  and manage packages and local environments.
 </p>
 
-<h3 align="center">Small tools. Honest answers.</h3>
-
 <p align="center">
-  Developer tools for your Linux workflow — written in Rust, read-only by default, with the evidence beside every answer.
-  <br />
-  <a href="https://devutils-org.github.io"><b>devutils-org.github.io</b></a>
+  <a href="https://devutils-org.github.io"><b>Explore the tools →</b></a>
 </p>
 
 ---
