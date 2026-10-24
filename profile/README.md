@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://devutils-org.github.io"><img src="https://raw.githubusercontent.com/devutils-org/.github/main/profile/assets/github-social-preview-with-phrase.png" width="1280" alt="devutils — See beyond the surface." /></a>
+  <a href="https://devutils-org.com"><img src="https://raw.githubusercontent.com/devutils-org/.github/main/profile/assets/github-social-preview-with-phrase.png" width="1280" alt="devutils — See beyond the surface." /></a>
 </p>
 
 <h2 align="center">Understand your Linux system.</h2>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devutils-org.github.io"><b>Explore the tools →</b></a>
+  <a href="https://devutils-org.com"><b>Explore the tools →</b></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ Each tool owns one kind of question about a Linux machine and installs on its ow
 | **[VMAnyware](https://github.com/devutils-org/VMAnyware)** | *Provision* — reproducible environments on your own Proxmox homelab, from a native client and a self-hosted control plane. | In development |
 
 The tools never depend on each other's code: they meet through files. A shared
-[cross-tool check](https://devutils-org.github.io/together/) runs all of them
+[cross-tool check](https://devutils-org.com/together/) runs all of them
 together in disposable VMs of nine distributions.
 
 ### The standard
